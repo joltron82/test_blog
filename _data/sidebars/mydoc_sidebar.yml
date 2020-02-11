@@ -28,15 +28,15 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Install RA
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: Install cores
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: Install BIOS
       url: /mydoc_about.html
       output: web, pdf
 
